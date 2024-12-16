@@ -1,1 +1,40 @@
-# ObjectiveByTheSea2024
+<div align="center">
+
+![logo](images/logo.png)
+
+---
+
+[![GitHub stars](https://img.shields.io/github/stars/LaurieWired/ObjectiveByTheSea2024)](https://github.com/LaurieWired/Malimite/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/LaurieWired/ObjectiveByTheSea2024)](https://github.com/LaurieWired/Malimite/network/members)
+[![GitHub contributors](https://img.shields.io/github/contributors/LaurieWired/ObjectiveByTheSea2024)](https://github.com/LaurieWired/Malimite/graphs/contributors)
+[![Follow @lauriewired on Twitter](https://img.shields.io/twitter/follow/lauriewired?style=social)](https://twitter.com/lauriewired)
+
+</div>
+
+---
+
+# iDecompile: Writing an iOS Decompiler
+
+During this talk, I 
+
+
+## Malimite iOS Decompiler Repository
+The [Malimite](https://github.com/LaurieWired/Malimite) repository contains the release and source code for my iOS decompiler.
+
+## Link References
+### Open Source Static Obfuscators
+- Obfuscator-LLVM
+  - https://github.com/obfuscator-llvm/obfuscator/tree/llvm-4.0
+- Sirius Obfuscator
+  - Renames variables
+  - https://github.com/Polidea/SiriusObfuscator
+- Obfuscator-iOS
+  - https://github.com/pjebs/Obfuscator-iOS
+
+### Open Source Runtime Protectors
+- iOS Security Suite
+  - https://github.com/securing/IOSSecuritySuite
+- Runtime Application Self-Protection (RASP)
+  - https://github.com/talsec/Free-RASP-iOS
+
+
